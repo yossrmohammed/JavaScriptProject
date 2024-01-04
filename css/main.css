@@ -1,0 +1,6 @@
+#infoSection , #newsAndEmailSection {
+    display:none;
+}
+#newImg{
+    height: 50%;
+}
